@@ -1,0 +1,29 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  sveiki
+    5  uname
+    6  uname -r
+    7  uname -a
+    8  history
+    9  echo $0
+   10  man uname
+   11  man man
+   12  whoami
+   13  sh
+   14  who
+   15  ssh user@epk428-1
+   16  ssh -X user@epk428-1
+   17  ifconfig 
+   18  ssh -X user@10.152.16.30
+   19  who
+   20  pwd
+   21  man pwd
+   22  ls
+   23  ls -l
+   24  ls -a
+   25  ls
+   26  ls -a
+   27  ls -la
+   28  history
+   29  history > history_20180904.txt
