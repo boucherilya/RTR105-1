@@ -1,0 +1,111 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  cd /home/user
+    5  pwd
+    6  cd /
+    7  pwd
+    8  cd ~
+    9  pwd
+   10  cd /
+   11  cd
+   12  pwd
+   13* /
+   14  cd ../
+   15  cd ~/
+   16  pwd
+   17  ls -l
+   18  mkdir
+   19  mkdir ManaMape
+   20  ls -l
+   21  cd ManaMape/
+   22  pwd
+   23  ls
+   24  ls -la
+   25  cd .
+   26  pwd
+   27  cd ..
+   28  pwd
+   29  rmdir ManaMape/
+   30  ls
+   31  mkdir ManaMape
+   32  ls
+   33  cd manaMape/
+   34  cd ManaMape/
+   35  mkdir ManaPapildusMape
+   36  rmdir manaMape/
+   37  rmdir ManaPapildusMape
+   38  man rm
+   39  pwd
+   40  rmdir ManaMape
+   41  man rmdir
+   42  man rm
+   43  cd ..
+   44  rmdir ManaMape
+   45  ls -l
+   46  man echo
+   47  echo "Teksts"
+   48  echo "tekst tekst tekst"
+   49  echo "tekst\n tekst\n tekst\n"
+   50  echo -e "tekst\n tekst\n tekst\n"
+   51  echo -e "tekst\n tekst\n teksn"
+   52  echo -e "tekst\n tekst\n tekst"
+   53  echo "Teksts" > fails1.txt
+   54  ls
+   55  ls -l
+   56  echo "Teksts" > ../fails1.txt
+   57  cd ..
+   58  pwd
+   59  cd..
+   60  ls -l
+   61  cd..
+   62  pwd
+   63  cd
+   64  cat fails1.txt
+   65  ls
+   66  echo "Cits Teksts" > ../fails1.txt
+   67  ls
+   68  cat fails1.txt
+   69  echo "Cits Teksts" > fails1.txt
+   70  ls
+   71  cat fails1.txt
+   72  echo "Teksts" > fails1.txt
+   73  ls
+   74  echo "Cits Teksts" >>  fails1.txt
+   75  cat fails1.txt
+   76  ls -l fails1.txt
+   77  cat fails1.txt
+   78  ls -l
+   79  man chmod
+   80  chmod 700 fails.txt
+   81  ls -l
+   82  chmod 700 fails1.txt
+   83  ls -l
+   84  chmod 400 fails1.txt
+   85  ls -l
+   86  echo "Teksts" > fails1.txt
+   87  chmod 600 fails1.txt
+   88  ls -l
+   89  nano fails1.txt
+   90  ls -l
+   91  cp fails1.txt fails3.txt
+   92  ls -l
+   93  mv *.txt Music/
+   94  ls -l
+   95  cd Music/
+   96  ls -l
+   97  mv*.txt ../
+   98  ls -l
+   99  mv *.txt ../
+  100  ls -l
+  101  cd..
+  102  ls -l
+  103  cd ..
+  104  mv fails1.txt fails 3.txt
+  105  mv fails1.txt fails 31.txt
+  106  rm *3*.txt
+  107  ls -l
+  108  rm fails2.txt
+  109  la -l
+  110  history
+  111  history > history_20180911.txt
