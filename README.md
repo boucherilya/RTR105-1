@@ -19,3 +19,16 @@ Datormācības kursa elektroniskā klade
    24  ls -a - uzskaitīti visi faili, ieskaitot slēptos failus
    27  ls -la - abas a un l komandas kombinācija
    29  history > history_20180904.txt - saglabājiet termināļa vēsturi drukājamā failā
+   mkdir - izveidot mapīti
+   rmdir - dzēst mapīti
+   mv - pārcelt
+   man chmod 700 - šifrēt manu mapīti
+   man chmod 400 - ļāut skatīt uz failu, bet nemainīt
+   rm *something*.txt - dzēst visus failus, kuriem ir "something" nosaukums
+   nano fails1.txt - 
+   cat fails1.txt - 
+   echo "Teksts" - uzrakstit kādu vārdu
+   echo -e "tekst\n tekst\n tekst" - katrais vārds atsēvišķā kolonna
+   setxkbmap lv - pārmainīt valodu uz latviešu
+   echo "Cits Teksts" > ../fails1.txt - 
+   echo "Cits Teksts" >> fails1.txt - 
