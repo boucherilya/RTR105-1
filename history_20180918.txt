@@ -57,3 +57,30 @@
    57  nano git-upload
    58  ls -l
    59  history > history_20180918.txt
+   60  ls
+   61  ls -l
+   62  chmod 764 git-upload
+   63  ls -l
+   64  git
+   65  ls -l
+   66  ./git-upload
+   67  ./git-upload 20180918_14_05
+   68  ./git-upload
+   69  ./git-upload 20180918_14_05
+   70  nano git-upload
+   71  ./git-upload 20180918_14_05
+   72  nano git-upload
+   73  ls -l
+   74  ./git-upload 20180918_14_05
+   75  ls -l
+   76  cat git-upload 
+   77  ./git-upload 20180918_14_05
+   78  nano git-upload
+   79* 
+   80  python
+   81  iphyton
+   82  iphython
+   83  ipython
+   84  idle &
+   85  ls -l
+   86  history > history_20180918.txt
