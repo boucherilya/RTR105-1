@@ -32,3 +32,13 @@ Datormācības kursa elektroniskā klade
    setxkbmap lv - pārmainīt valodu uz latviešu
    echo "Cits Teksts" > ../fails1.txt - 
    echo "Cits Teksts" >> fails1.txt - 
+   
+   #!/bin/bash
+   if [ $# == 1 ]
+   then
+   git config --global user.email boucherilya@gmail.com
+   git add .
+   #git commit -m "20171012_09_55"
+   git commit -m $1
+   git push origin master
+   fi 

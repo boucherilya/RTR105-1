@@ -1,0 +1,59 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo -e "mkdir Mape\ncd Mape" > create_in.sh 
+    4  ls
+    5  cat create_in.sh
+    6  create
+    7  create_in.sh
+    8  echo $PATH
+    9  whereis cd
+   10  whereis firefox
+   11  pwd
+   12  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:home/user"
+   13  echo $PATH
+   14  create_in.sh
+   15  echo $PATH
+   16  ls -l
+   17  chmod 764
+   18  chmod 764 create_in.sh
+   19  ls -l
+   20  create
+   21  create_in.sh
+   22  ls
+   23  echo $PATH
+   24  whereis firefox
+   25  echo $PATH
+   26  pwd
+   27  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   28  pwd
+   29  ls -l
+   30  create_in.sh 
+   31  ls -l
+   32  echo $PATH
+   33  ls
+   34  PATH=$PATH:~/Mape
+   35  echo $PATH
+   36  /home/user/create_in.sh
+   37  ./create_in.sh
+   38  nano create_in.sh
+   39  ls /usr/bin/bash
+   40  cd /usr/
+   41  cd
+   42  nano create_in.sh
+   43  pwd
+   44  ls -l
+   45  git clone https://github.com/boucherilya/RTR105
+   46  ls -l
+   47  cd RTR105
+   48  ls -l
+   49  cd
+   50  git clone https://github.com/boucherilya/RTR105-1
+   51  ls -l
+   52  cd RTR105-1
+   53  ls -l
+   54  nano README.md 
+   55  nano git-upload
+   56  ls -l
+   57  nano git-upload
+   58  ls -l
+   59  history > history_20180918.txt
