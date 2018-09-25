@@ -1,0 +1,13 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/boucherilya/RTR105-1
+    4  ls -l
+    5  cd RTR105-1
+    6  ls -l
+    7  idle &
+    8  ls -l
+    9  nano tats_1_20180925.py
+   10  ls -l
+   11  nano dgr_20180925.py
+   12  ls -l
+   13  history > history_20180925.txt
