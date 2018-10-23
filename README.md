@@ -1,3 +1,4 @@
+x
 # RTR105
 Datormācības kursa elektroniskā klade
     3  firefox - atvert brauzeru
