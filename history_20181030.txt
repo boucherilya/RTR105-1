@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/boucherilya/RTR105-1
+    4  cd RTR105-1
+    5  idle &
+    6  nano mbox.txt
+    7  ls -l
+    8  nano README.md
+    9  history > history > history_20181030.txt
