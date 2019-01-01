@@ -1,7 +1,7 @@
 # Fails : 191. py
-# Autors : ...................
-# Apliecibas numurs : .................
-# Datums : ........
+# Autors : Iļja Dočuks
+# Apliecibas numurs : 181REB294
+# Datums : 01.01.2019
 
 # -*- coding : utf -8 -*-
 from math import cos , fabs
